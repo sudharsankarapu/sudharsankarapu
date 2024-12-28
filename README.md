@@ -1,30 +1,82 @@
-# Hi, I'm Sudharsan Reddy Karapureddy 👋
+# Hi, I'm Sudharsan Reddy Karapureddy 👋  
 
-I'm a passionate **Penetration Tester** with experience in various domains of security including **Web**, **API**, **Blockchain**, **Cloud Security**, and more.
+🔐 **Passionate Penetration Tester** | 🌐 **Web & API Security Specialist** | 💻 **Blockchain Security Enthusiast**
 
-## Skills & Technologies
+---
 
-### 🔒 **Penetration Testing**  
-- Web Application Security  
-- API Security Testing  
-- Network Penetration Testing (NPT)  
-- Mobile Application Penetration Testing (Android/iOS)  
-- Cloud Security (AWS, Azure, GCP)  
-- Blockchain Security (Ethereum & Smart Contracts)  
-- IoT Penetration Testing  
+## 🚀 **About Me**
+I’m a skilled penetration tester with expertise in:  
+- **Web Application Security**  
+- **API Security Testing**  
+- **Secure Code Review (SCR)**  
+- **Blockchain Security (Ethereum & Smart Contracts)**  
+- **Cloud Security**  
+- **IoT Penetration Testing**  
 
-### 🛠️ **Tools & Frameworks**
-- **Burp Suite**, **Metasploit**, **Nmap**, **Nessus**, **Kali Linux**, **OWASP ZAP**, **AppScan**, **Qualys Guard**, **Nexpose**  
-- **Docker**, **Kubernetes** (for security testing and environment setup)  
-- **Wireshark**, **Snort** (network security tools)
+---
 
-### 📝 **Programming & Scripting**
-- Python, Shell scripting, PERL  
-- SQL, JavaScript (for Web Application Security Testing)
+## 🛠️ **Technical Skills**
 
-## 📫 How to Reach Me
-- Email: [sudharsankarapuredddy@gmail.com](mailto:sudharsankarapuredddy@gmail.com)
-- LinkedIn: [linkedin.com/in/sudharsanreddykarapureddy](https://www.linkedin.com/in/sudharsanreddykarapureddy)
+### 🔒 **Penetration Testing**
+- Web Application Security 🕸️  
+- API Security 🛡️  
+- Network Penetration Testing 🌐  
+- Mobile Security Testing 📱  
+- Blockchain Security (Ethereum, Smart Contracts) ₿  
+- IoT Penetration Testing 🌟  
 
-## 📄 Projects
-- [My Penetration Testing Projects](https://github.com/sudharsankarap)
+### ⚙️ **Tools & Frameworks**
+| Category               | Tools                                                                                  |
+|------------------------|---------------------------------------------------------------------------------------|
+| **Web/API Security**   | Burp Suite, OWASP ZAP, Postman, Acunetix                                             |
+| **Blockchain Security**| Mythril, Remix IDE, Truffle, Ganache, Solidity, Hardhat                              |
+| **Network Security**   | Metasploit, Nmap, Nessus, Wireshark                                                  |
+| **Code Review**        | Fortify, SonarQube, Checkmarx                                                        |
+| **Scripting**          | Python 🐍, Bash, Shell                                                               |
+| **Cloud Security**     | AWS Inspector, Azure Security Center, GCP Security Command Center                   |
+| **IoT Security**       | BeagleBoard, Shodan, IoT Inspector                                                   |
+
+---
+
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharsankarap&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsankarap&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+## 🌟 **Featured Projects**
+### 🔥 Blockchain Security Tools
+- [**Mythril Security Tool Demo**](https://github.com/sudharsankarap/mythril-demo)  
+- [**Ethereum Smart Contract Penetration Tests**](https://github.com/sudharsankarap/smart-contract-tests)  
+
+### 🌐 Web Application Security
+- [**Burp Suite Extensions for API Security**](https://github.com/sudharsankarap/burp-suite-extensions)  
+- [**Custom Vulnerability Scanner**](https://github.com/sudharsankarap/vulnerability-scanner)  
+
+---
+
+## 📚 **Currently Learning**
+- Advanced **Solidity Smart Contract Security**  
+- **Cloud Infrastructure Penetration Testing**  
+- Mastering Python for Automation in Security  
+
+---
+
+## 💬 **Ask Me About**
+- **Web Application Security**  
+- **API Testing**  
+- **Blockchain & Ethereum Security**  
+- **Secure Code Review Techniques**  
+
+---
+
+## 📫 **How to Reach Me**
+- 📧 Email: [sudharsankarapuredddy@gmail.com](mailto:sudharsankarapuredddy@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/sudharsanreddykarapureddy](https://www.linkedin.com/in/sudharsanreddykarapureddy)  
+
+---
+
+## 🎉 **Fun Fact**
+I love diving into **Capture the Flag (CTF)** challenges and exploring vulnerabilities in **smart contracts** for fun!  
