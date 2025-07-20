@@ -13,7 +13,7 @@
 
 ## 🚀 **About Me**
 
-I’m a seasoned **penetration tester** with over **100+ real-world projects** and counting—ranging from web and mobile pentests to cloud or blockchain audits.  
+I’m a seasoned **penetration tester** with over **150+ real-world projects** and counting—ranging from web and mobile pentests to cloud or blockchain audits.  
 🏆 Ranked **Top 10** on HackerOne with [these notable reports](https://hackerone.com/reports?sort=top) detailed below.
 
 - 🌐 **Web Application Security**  
