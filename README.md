@@ -2,8 +2,8 @@
 
 ## 👋 Hi, I'm Sudharsan Reddy Karapureddy  
 
-🔐 **Certified Ethical Hacker (CEH) | eJPT | Blockchain Security Expert**  
-📱 **Mobile Pentester (Android/iOS) | Web/API Security | Cloud Security Specialist**  
+🔐 **Certified Ethical Hacker (CEH) | eJPT | Source code Review | SAST/DAST Expert**  
+📱 **Mobile Pentester (Android/iOS) | Web/API Security | Cloud Security Specialist | Blockchian Security**  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sudharsankarapu/assets/main/banner-modern.gif" alt="Banner" width="100%"/>
